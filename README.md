@@ -31,4 +31,4 @@
 ](https://www.youtube.com/watch?v=1VSZtNYMntM)
 
 
-[Club Constitution](main/ClubConstitution.txt)
+[Club Constitution](/(root)/ClubConstitution.txt)
