@@ -1,7 +1,7 @@
 # LMHS AI Club 
 
 ## Introduction to AI
-> ### fastai
+> ### Code.org
 >> [Code.org's intro to AI](https://code.org/ai)
 
 
