@@ -5,7 +5,7 @@
 >> [Code.org's intro to AI](https://code.org/ai)
 
 ## How Neural Networks Work
->### 3Blue1Brown
+### 3Blue1Brown
 * But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
 * Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
@@ -29,3 +29,6 @@
 ## Basic Math for ML and DL
 > [Mathematics for Machine Learning [Full Course] | Essential Math for Machine Learning | Edureka
 ](https://www.youtube.com/watch?v=1VSZtNYMntM)
+
+
+[Club Constitution](main/ClubConstitution.txt)
