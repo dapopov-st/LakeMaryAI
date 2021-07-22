@@ -13,7 +13,7 @@
 >> [cs230 Stanford course website](https://cs230.stanford.edu/)
 
 > ### MIT Intro to Deep Learning
->> [cs230 Stanford course website](http://introtodeeplearning.com/)
+>> [MIT Intro to Deep Learning course website](http://introtodeeplearning.com/)
 
 ## Machine Learning (a superset of Deep Learning and a subset of AI)
 > ### Machine Learning by Stanford University (you might be able to enroll after your read the [Terms](https://www.coursera.org/about/terms) with your parents)
