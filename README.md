@@ -27,5 +27,5 @@
 >> [Andrew Ng's classic on Coursera](https://www.coursera.org/learn/machine-learning)
 
 ## Basic Math for ML and DL
->> [Mathematics for Machine Learning [Full Course] | Essential Math for Machine Learning | Edureka
+> [Mathematics for Machine Learning [Full Course] | Essential Math for Machine Learning | Edureka
 ](https://www.youtube.com/watch?v=1VSZtNYMntM)
