@@ -1,5 +1,5 @@
 # LMHS AI Club 
-
+![AI Image](https://www.publicdomainpictures.net/pictures/370000/velka/kunstliche-intelligenz-1603866343eG3.jpg)
 ## Introduction to AI
 > ### Code.org
 >> [Code.org's intro to AI](https://code.org/ai)
