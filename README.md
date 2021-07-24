@@ -22,7 +22,7 @@
 > ### MIT Intro to Deep Learning
 >> [MIT Intro to Deep Learning course website](http://introtodeeplearning.com/)
 
-##Tensorflow 
+## Tensorflow 
 >Tensorflow Tutorials (Hands On)
 >>[tensorflow tutorials](https://www.tensorflow.org/tutorials)
 
