@@ -22,6 +22,10 @@
 > ### MIT Intro to Deep Learning
 >> [MIT Intro to Deep Learning course website](http://introtodeeplearning.com/)
 
+##Tensorflow 
+>Tensorflow Tutorials (Hands On)
+>>[tensorflow tutorials](https://www.tensorflow.org/tutorials)
+
 ## Machine Learning (a superset of Deep Learning and a subset of AI)
 > ### Machine Learning by Stanford University (you might be able to enroll after your read the [Terms](https://www.coursera.org/about/terms) with your parents)
 >> [Andrew Ng's classic on Coursera](https://www.coursera.org/learn/machine-learning)
@@ -29,6 +33,7 @@
 ## Basic Math for ML and DL
 > [Mathematics for Machine Learning [Full Course] | Essential Math for Machine Learning | Edureka
 ](https://www.youtube.com/watch?v=1VSZtNYMntM)
+
 
 
 # [Club Constitution](/ClubConstitution.txt)
