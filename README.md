@@ -21,7 +21,7 @@
 
 ## Machine Learning (a superset of Deep Learning and a subset of AI)
 > ### Introduction to Machine Learning for Coders (by Jeremy Howard of fastai)
->>[Jeremy Howards's course covering random forests and deep learning foundations]https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
+>>[Jeremy Howards's course covering random forests and deep learning foundations](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
 
 > ### Machine Learning by Stanford University (you might be able to enroll after your read the [Terms](https://www.coursera.org/about/terms) with your parents)
 >> [Andrew Ng's classic on Coursera](https://www.coursera.org/learn/machine-learning)
