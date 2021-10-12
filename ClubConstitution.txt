@@ -1,1 +1,55 @@
-Lake Mary HS AI Club Constitution
+Lake Mary High School Artificial Intelligence Club Constitution and By-Laws
+ARTICLE I:  NAME & PURPOSE
+Section A: Name – The name of this club shall be Lake Mary High School Artificial Intelligence Club.
+Section B: Purpose – Democratize artificial intelligence by demonstrating that motivated high school students can successfully train artificial neural networks using the fastai deep learning code library. 
+ARTICLE II:  MEMBERSHIP & DUES
+Section A: Eligibility - Membership shall be open to any student attending Lake Mary High School.  
+Section B: Dues – None.
+
+ARTICLE III:  OFFICERS
+Section A: Officers – The officers shall be a President, Vice-President, Secretary, and Treasurer. 
+Section B: Eligibility – Officers must have at least one year of coding experience and must have taken Algebra 2.
+Section C: Election – The officers shall be elected by vote of the President and Faculty Advisor.
+Section D: Term – The officers shall serve for one year and their term of office shall begin at the commencement of the fall semester.
+Section E: Vacancy – If a vacancy occurs in the office of President, the Vice-President shall assume the office for the remainder of the term and vacancies in any other office shall be filled by a special election.
+ARTICLE IV:  DUTIES OF OFFICERS
+Section A: President – it shall be the duty of the President to:
+•	Preside at meetings 
+•	Represent the club 
+•	Perform such other duties as ordinarily pertain to this office 
+Section B: Vice-President – It shall be the duty of the Vice-President to:
+•	Preside in the absence of the President 
+Section C: Secretary – It shall be the duty of the Secretary to: 
+•	Record the minutes of all meetings 
+•	Keep a file of the club’s records 
+•	Maintain a current roster of membership 
+•	Issue notices of meetings and conduct the general correspondence of the club 
+Section D: Treasurer – It shall be the duty of the Treasurer to:
+•	Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms. 
+•	Keep an itemized account of all receipts and expenditures and make reports as directed 
+ARTICLE V:  MEETINGS
+Section A: Meetings – Regular meetings shall be held weekly during the regular school year.
+Section B: Special Meeting – Special meetings may be called by the President with the approval of the Executive Committee.
+Section C: Quorum – A quorum shall consist of two-thirds of the membership.
+ARTICLE VI:  EXECUTIVE COMMITTEE
+Section A: Responsibility – Management of this club shall be vested in an Executive Committee responsible to the entire membership to uphold these bylaws.
+Section B: Membership – This committee shall consist of the officers as listed in Article III and the faculty advisor.
+ARTICLE VII:  ADVISOR
+Section A: Selection – There shall be a faculty/staff advisor who shall be selected each year by the membership.
+Section B: Duties – The responsibilities of the faculty advisor shall be to:
+•	Maintain an awareness of the activities and programs sponsored by the student club. 
+•	Meet on a regular basis with the leader of the student club to discuss upcoming meetings, long range plans, goals, and problems of the club. 
+•	Attend regular meetings, executive board meetings as often as schedule allows. 
+•	Assist in the orientation of new officers. 
+•	Explain and clarify campus policy and procedures that apply to the club. 
+•	Maintain contact with the Student Life Office. 
+•	Provide direction in the area of parliamentary procedure, meeting facilitation, group-building, goal setting, and program planning. 
+•	Assist the club treasurer in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger. 
+•	Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors. 
+ARTICLE VIII:  COMMITTEES
+Section A: Program Committee – A program committee composed of the Vice-President as chairperson and other members shall be appointed by the President before the end of spring semester, whose duty shall be to plan the overall program of the club.
+Section B: Special Committees – The President shall have the authority to appoint any special committees, with the approval of the Executive Committee, from time to time as need demands.
+ARTICLE IX:  AMENDMENTS
+Section A: Selection – These bylaws may be amended by a two-thirds (2/3) majority vote of the chapter membership.
+Section B: Notice – All members shall receive advance notice of the proposed amendment at least five days before the meeting. The time may be extended to the following meeting.
+
