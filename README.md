@@ -44,5 +44,5 @@
 
 # [Club Constitution](/ClubConstitution.txt)
 # Pytorch engineer https://github.com/python-engineer/pytorchTutorial
-#Tnet https://dapopov-st.github.io/LakeMaryAI/Tnet_fastai_v1.ipynb
+#Tnet https://github.com/dapopov-st/LakeMaryAI/blob/main/Trashnet%20fastai%20v1.py
 
