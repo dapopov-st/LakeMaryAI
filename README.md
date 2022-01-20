@@ -43,3 +43,7 @@
 * Backpropagation calculus | Chapter 4, Deep learning](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 # [Club Constitution](/ClubConstitution.txt)
+# Pytorch engineer https://github.com/python-engineer/pytorchTutorial
+#Tnet 
+
+
