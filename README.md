@@ -47,7 +47,7 @@
 #Tnet https://github.com/dapopov-st/LakeMaryAI/blob/main/Trashnet%20fastai%20v1.py
 
 ## Linux commands
->[The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=11087s&ab_channel=freeCodeCamp.org)
+### [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=11087s&ab_channel=freeCodeCamp.org)
 
 ## Git and Github
 ### [Git](https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele) <br>
