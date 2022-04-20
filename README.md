@@ -50,11 +50,11 @@
 >[The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=11087s&ab_channel=freeCodeCamp.org)
 
 ## Git and Github
-* [Git](https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele) <br>
-* [Github] (https://www.youtube.com/watch?v=nhNq2kIvi9s&ab_channel=ColtSteele)
+### [Git](https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele) <br>
+### [Github] (https://www.youtube.com/watch?v=nhNq2kIvi9s&ab_channel=ColtSteele)
 
 ## Python
-> [A Guide to Python through the Game of Tic-Tac-Toe Part 1: Non-OOP](https://github.com/dapopov-st/GuideToPythonThroughTicTacToe1/blob/master/GuideToPythonThroughTicTacToe.ipynb)
+### [A Guide to Python through the Game of Tic-Tac-Toe Part 1: Non-OOP](https://github.com/dapopov-st/GuideToPythonThroughTicTacToe1/blob/master/GuideToPythonThroughTicTacToe.ipynb)
 > [A Guide to Python through the Game of Tic-Tac-Toe Part 2: OOP Forthcoming or will be merged with Part 1]
 
 # [Club Constitution](/ClubConstitution.txt)
