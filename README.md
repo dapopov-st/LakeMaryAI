@@ -54,7 +54,7 @@
 ### [Github](https://www.youtube.com/watch?v=nhNq2kIvi9s&ab_channel=ColtSteele)
 
 ## Python
-### [A Guide to Python through the Game of Tic-Tac-Toe Part 1: Non-OOP](https://github.com/dapopov-st/GuideToPythonThroughTicTacToe1/blob/master/GuideToPythonThroughTicTacToe.ipynb)
+### [A Guide to Python through the Game of Tic-Tac-Toe Part 1: Non-OOP](https://dapopov-st.github.io/LearnPythonThroughTIcTacToe/)
 > [A Guide to Python through the Game of Tic-Tac-Toe Part 2: OOP Forthcoming or will be merged with Part 1]
 
 # [Club Constitution](/ClubConstitution.txt)
